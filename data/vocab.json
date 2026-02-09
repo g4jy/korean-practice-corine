@@ -492,24 +492,6 @@
         ]
       },
       {
-        "id": "busy",
-        "kr": "바빠요",
-        "rom": "BA-PPA-YO",
-        "en": "busy",
-        "compatibleSubjects": [
-          "activity"
-        ]
-      },
-      {
-        "id": "tiring",
-        "kr": "피곤해요",
-        "rom": "PI-GON-HAE-YO",
-        "en": "tiring",
-        "compatibleSubjects": [
-          "activity"
-        ]
-      },
-      {
         "id": "hard",
         "kr": "힘들어요",
         "rom": "HIM-DEU-REO-YO",
