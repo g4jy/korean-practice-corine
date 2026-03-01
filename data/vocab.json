@@ -2166,48 +2166,47 @@
     ]
   },
   "flashcards": {
-    "categories": {
-      "verb": [
-        {
-          "kr": "섞다",
-          "rom": "?-DA",
-          "en": "to mix"
-        },
-        {
-          "kr": "넣다",
-          "rom": "?-DA",
-          "en": "to put in"
-        },
-        {
-          "kr": "찾다",
-          "rom": "?-DA",
-          "en": "to find / to look for"
-        },
-        {
-          "kr": "보여주다",
-          "rom": "BO-YEO-JU-DA",
-          "en": "to show"
-        },
-        {
-          "kr": "시작하다",
-          "rom": "SI-?-HA-DA",
-          "en": "to start / to begin"
-        },
-        {
-          "kr": "끝나다",
-          "rom": "?-NA-DA",
-          "en": "to end / to finish"
-        },
-        {
-          "kr": "숙성하다",
-          "rom": "?-?-HA-DA",
-          "en": "to age / to ferment / to ripen"
-        }
-      ],
-      "expression": [],
-      "general": [],
-      "food": [],
-      "drink": []
-    }
+    "categories": [
+      {
+        "name": "verb",
+        "cards": [
+          {
+            "kr": "섞다",
+            "rom": "?-DA",
+            "en": "to mix"
+          },
+          {
+            "kr": "넣다",
+            "rom": "?-DA",
+            "en": "to put in"
+          },
+          {
+            "kr": "찾다",
+            "rom": "?-DA",
+            "en": "to find / to look for"
+          },
+          {
+            "kr": "보여주다",
+            "rom": "BO-YEO-JU-DA",
+            "en": "to show"
+          },
+          {
+            "kr": "시작하다",
+            "rom": "SI-?-HA-DA",
+            "en": "to start / to begin"
+          },
+          {
+            "kr": "끝나다",
+            "rom": "?-NA-DA",
+            "en": "to end / to finish"
+          },
+          {
+            "kr": "숙성하다",
+            "rom": "?-?-HA-DA",
+            "en": "to age / to ferment / to ripen"
+          }
+        ]
+      }
+    ]
   }
 }
